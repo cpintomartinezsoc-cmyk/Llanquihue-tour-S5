@@ -20,18 +20,31 @@ El sistema lee  la información de los empleados desde el  archivo (empleados.tx
 ## 🧱 Estructura del Proyecto
 
 src/
+
 └── cl/
+
     └── duoc/
+    
         └── llanquihue/
+        
             ├── app/
+            
             │   └── Main.java         
+            
             │
+            
             ├── data/
+            
             │   └── DataManager.java   
+            
             └── model/
+            
                 ├── Persona.java       
+                
                 ├── Empleado.java      
+                
                 └── Direccion.java
+
 
   ⚙️ Instrucciones para ejecutar el proyecto
 Clonar el repositorio desde GitHub: https://github.com/cpintomartinezsoc-cmyk/Llanquihue-tour-S5.git
