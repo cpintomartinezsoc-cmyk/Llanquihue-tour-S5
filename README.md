@@ -4,9 +4,9 @@
 
 ## 👤 Autor del Proyecto
 * **Nombre Completo:** Camilo Pinto
-* **Carrera:** Ingeniería en Informática
+* **Carrera:** Analista Programador
 * **Asignatura:** Desarrollo Orientado a Objetos I
-* **Caso:** Llanquihue Tour (Organización modular y persistencia)
+* **Caso:** Llanquihue Tour 
 
 ---
 
