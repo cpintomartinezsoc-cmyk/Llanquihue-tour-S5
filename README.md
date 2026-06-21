@@ -57,7 +57,7 @@ src/
 
 
   ⚙️ Instrucciones para ejecutar el proyecto
-Clonar el repositorio desde GitHub: https://github.com/cpintomartinezsoc-cmyk/Llanquihue-tour-S5.git
+Clonar el repositorio desde GitHub:
 
 1. Abrir el proyecto en IntelliJ IDEA.
 2. Verificar que el archivo empleados.txt se encuentre dentro de la carpeta:
@@ -67,5 +67,7 @@ cl.duoc.llanquihue.app.Main
 
    
 🧪 Prueba realizada
+
 Repositorio GitHub: https://github.com/cpintomartinezsoc-cmyk/Llanquihue-tour-S5.git
+
 Fecha de entrega: [22/06/2026]
