@@ -25,25 +25,35 @@ src/
 
     └── duoc/
     
+    
         └── llanquihue/
+        
         
             ├── app/
             
-            │   └── Main.java         
+            
+            │   └── Main.java     
+            
             
             │
             
             ├── data/
             
+            
             │   └── DataManager.java   
+            
             
             └── model/
             
-                ├── Persona.java       
+            
+                ├── Persona.java    
                 
-                ├── Empleado.java      
+                
+                ├── Empleado.java   
+                
                 
                 └── Direccion.java
+                
 
 
   ⚙️ Instrucciones para ejecutar el proyecto
