@@ -13,14 +13,12 @@
 ## 📘 Descripción General del Sistema
 El propósito de este módulo es resolver las dificultades administrativas de la agencia **Llanquihue Tour** mediante la automatización de la gestión de su personal. 
 
-El sistema lee de manera automatizada la información de los empleados desde un archivo plano externo (`empleados.txt`), parsea los datos estructurados (incluyendo la composición de objetos como la dirección) y los carga en una colección dinámica (`ArrayList`). Además, el sistema implementa algoritmos de recorrido completo y filtrado inteligente por consola para agilizar la búsqueda de personal según su cargo.
+El sistema lee  la información de los empleados desde el  archivo (empleados.txt) y los carga en una colección dinámica (ArrayList). Además, el sistema implementa un  recorrido por consola para agilizar la búsqueda de personal según su cargo.
 
 
 
 ## 🧱 Estructura del Proyecto
-El código sigue una arquitectura limpia y modular organizada estrictamente en paquetes funcionales:
 
-text
 src/
 └── cl/
     └── duoc/
@@ -47,4 +45,4 @@ cl.duoc.llanquihue.app.Main
    
 🧪 Prueba realizada
 Repositorio GitHub: https://github.com/cpintomartinezsoc-cmyk/Llanquihue-tour-S5.git
-Fecha de entrega: [15/06/2026]
+Fecha de entrega: [22/06/2026]
