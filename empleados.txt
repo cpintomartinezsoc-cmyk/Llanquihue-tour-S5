@@ -1,0 +1,3 @@
+14232042-k,Carlos Soto,99495145,San Francisco;312;Llanquihue,Guia Volcan
+17555432-1,Ana Gomez,988776655,Tremmer;453;Puerto Varas,Guia Lacustre
+19222333-4,Juan Perez,911223344,San Francisco;312;Llanquihue,Guia Volcan
