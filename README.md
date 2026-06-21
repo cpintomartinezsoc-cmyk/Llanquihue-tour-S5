@@ -60,9 +60,11 @@ src/
 Clonar el repositorio desde GitHub:
 
 1. Abrir el proyecto en IntelliJ IDEA.
+
 2. Verificar que el archivo empleados.txt se encuentre dentro de la carpeta:
-3 Ejecutar la clase:
-cl.duoc.llanquihue.app.Main
+
+3 Ejecutar la clase: cl.duoc.llanquihue.app.Main
+
 4. Revisar la salida generada en consola.
 
    
